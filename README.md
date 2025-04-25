@@ -3,7 +3,7 @@
 Este repositorio contiene dos proyectos independientes desarrollados en Python para visualizar series matemáticas mediante gráficas:
 
 1. **Fibonacci Gráfica** (`fibonacci`): genera y grafica la sucesión de Fibonacci.
-2. **Taylor Series** (`taylor/`): aproxima la función \(e^x\) usando su serie de Taylor y la grafica.
+2. **Taylor Series** (`taylor`): aproxima la función \(e^x\) usando su serie de Taylor y la grafica.
 
 ---
 
