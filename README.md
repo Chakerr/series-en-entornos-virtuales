@@ -38,7 +38,7 @@ Cada subcarpeta es un proyecto autónomo con su propio entorno virtual recomenda
 
 ## Configuración y ejecución de los proyectos
 
-Para **cada** proyecto (`fibonacci-grafica` y `taylor-series`), sigue estos pasos dentro de su carpeta correspondiente:
+Para **cada** proyecto (`fibonacci` y `taylor`), sigue estos pasos dentro de su carpeta correspondiente:
 
 1. **Crear y activar el entorno virtual**:
    ```bash
